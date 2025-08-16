@@ -4,12 +4,12 @@ A comprehensive Python project for analyzing and visualizing COVID-19 pandemic t
 
 ## Features
 
-- 📊 Global pandemic trend analysis
-- 🌍 Country-wise comparison and ranking
-- 📈 Time series visualization
-- 🔗 Correlation analysis between metrics
-- 💉 Vaccination progress tracking
-- 🎯 Interactive dashboard creation
+- Global pandemic trend analysis
+- Country-wise comparison and ranking
+- Time series visualization
+- Correlation analysis between metrics
+- Vaccination progress tracking
+- Interactive dashboard creation
 
 ## Installation
 
@@ -25,3 +25,4 @@ Run the main analysis:
 ```bash
 python main.py
 ```
+
